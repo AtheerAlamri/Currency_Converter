@@ -7,4 +7,4 @@ A simple Currency Converter Project converts the current currency into the curre
 [<code><img height="25" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png"></code>](https://www.jetbrains.com/pycharm/)
 
 # GUI
-<img width="286" alt="Currency Converter" src="https://user-images.githubusercontent.com/100073823/184247905-0c59746a-bd63-4b92-bf2e-483d4f4f541d.png">
+<img width="289" alt="Currency Converter" src="https://user-images.githubusercontent.com/100073823/184253458-580802ab-465e-44d6-92c7-55b6c5faabdf.png">
